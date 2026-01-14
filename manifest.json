@@ -1,7 +1,7 @@
 {
   "name": "Into-Me-I-See",
   "short_name": "Into-Me-I-See",
-  "start_url": "https://into-me-i-see.github.io/imis-twa/twa-start.html",
+  "start_url": "https://pwa.into-me-i-see.ca/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
